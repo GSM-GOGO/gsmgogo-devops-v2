@@ -1,0 +1,1 @@
+![server architecture](./images/server_architecture.png)
